@@ -3,20 +3,20 @@
 SoBright API Documentation
 # Requirement
 .env
-ACCESS_TOKEN_SECRET=
+ACCESS_TOKEN_SECRET= \n
 REFRESH_TOKEN_SECRET=
 
 ## Feature
 ### Profile
 Method: GET
 Description: This endpoint retrieves user profile information.
-Endpoint: /profile
+Endpoint: /users
 Authentication: Requires a valid access token.
 
 ### Registration
 Method: POST
 Description: Allows user registration.
-Endpoint: /register
+Endpoint: /users
 Authentication: Not required.
 
 ### Login
