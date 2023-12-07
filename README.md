@@ -1,6 +1,10 @@
 # SoBright API Documentation
 
 SoBright API Documentation
+# Requirement
+.env
+ACCESS_TOKEN_SECRET=
+REFRESH_TOKEN_SECRET=
 
 ## Feature
 ### Profile
