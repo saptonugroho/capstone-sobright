@@ -3,7 +3,7 @@
 SoBright API Documentation
 # Requirement
 .env
-ACCESS_TOKEN_SECRET= \n
+ACCESS_TOKEN_SECRET= 
 REFRESH_TOKEN_SECRET=
 
 ## Feature
