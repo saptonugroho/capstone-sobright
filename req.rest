@@ -1,0 +1,53 @@
+GET http://localhost:5000/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInVzZXJuYW1lIjoic2FwdG8iLCJlbWFpbCI6InNhcHRvbnVncm9ob2lkQGdtYWlsLmNvbSIsImlhdCI6MTcwMTkyMzg2OCwiZXhwIjoxNzAxOTIzODgzfQ.hyu0QiMXuPc6eTWTaodxyN9Yupx2gecLYR9E80k4WJU
+
+
+###
+POST http://localhost:5000/users
+Content-Type: application/json
+
+{
+    "username": "sapton",
+    "email": "saptonugrohoid@gmail.com",
+    "fullname": "Sapto Nugroho",
+    "password": "123456",
+    "confPassword": "123456"
+}
+
+
+###
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+    "username": "sapto",
+    "password": "123456"
+}
+
+###
+GET http://localhost:5000/token
+
+###
+DELETE http://localhost:5000/logout
+
+###
+POST  http://localhost:5000/result
+Content-Type: application/json
+
+{
+    "lat": "7.7956",
+    "longtitude": "110.3695"
+}
+
+###
+POST  http://localhost:5000/log
+Content-Type: application/json
+
+{
+    "lat" : "7.7956",
+    "long" : "110.3695",
+    "longpanel" : "30",
+    "pricekwh" : "2000",
+    "result" : "6.096",
+    "iduser" : "iduser"
+}
