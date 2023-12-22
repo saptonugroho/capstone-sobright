@@ -17,9 +17,14 @@ The results of the two-year prediction are sent back to the cloud computing syst
 </div>
 3. Support Features : Consist of history feature(will be usefull to store your pass record data) and account feature(will help multi devices integration)
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/BagasJulion/mobile-development/assets/133879597/89052222-b63e-4e28-98b5-2d55e1896eee" width="30%" alt="Gambar 1">
-  <img src="https://github.com/BagasJulion/mobile-development/assets/133879597/your_image_filename.jpg" width="30%" alt="Gambar 2">
+  <img src="https://github.com/BagasJulion/mobile-development/blob/main/assets/133879597/89052222-b63e-4e28-98b5-2d55e1896eee.jpg" width="30%" alt="Gambar 1">
+  <img src="https://github.com/BagasJulion/mobile-development/blob/main/assets/133879597/b7d4706d-0fae-4c28-a8e0-603a47a21655.jpg" width="30%" alt="Gambar 2">
 </div>
+
+Tech - Stack
+glide : https://github.com/bumptech/glide
+retrofit2 : https://square.github.io/retrofit/
+firebase auth : https://developer.android.com/jetpack
 
 
 
