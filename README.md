@@ -4,9 +4,7 @@ The repository for mobile development path cohort
 
 Features
 1. Auth Feature : powered with firebase auth allowing user to login, register, logout faster and reliable
-   <div align="center">
-  <"![start](https://github.com/BagasJulion/mobile-development/assets/133879597/3217e647-7299-4f97-88de-84687472e906)" width="30%" alt="Gambar 1">
-  <"![login](https://github.com/BagasJulion/mobile-development/assets/133879597/5abc4e4d-0b4c-41f5-8cf3-00f35a79bacc)" width="30%" alt="Gambar 2">
-  <"![register](https://github.com/BagasJulion/mobile-development/assets/133879597/0772e10f-4760-4e0b-9c85-783ff59914b6)" width="30%" alt="Gambar 3">
-</div>
+![Gambar 1](path/to/![start](https://github.com/BagasJulion/mobile-development/assets/133879597/7ee3200d-7390-4d7d-84e7-58eed961d492))
+![Gambar 2](path/to/![login](https://github.com/BagasJulion/mobile-development/assets/133879597/b857bb35-d774-407d-b0ea-74648911eeca))
+![Gambar 3](path/to/![register](https://github.com/BagasJulion/mobile-development/assets/133879597/b261c381-e534-4818-b735-c329db00d1f3))
 
