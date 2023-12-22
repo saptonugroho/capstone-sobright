@@ -21,7 +21,7 @@ The results of the two-year prediction are sent back to the cloud computing syst
   <img src="https://github.com/BagasJulion/mobile-development/assets/133879597/b7d4706d-0fae-4c28-a8e0-603a47a21655" width="30%" alt="Gambar 2">
 </div>
 
-*Tech - Stack**
+Tech - Stack
 - Glide: [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
 - Retrofit2: [https://square.github.io/retrofit/](https://square.github.io/retrofit/)
 - Firebase Auth: [https://developer.android.com/jetpack](https://developer.android.com/jetpack)
